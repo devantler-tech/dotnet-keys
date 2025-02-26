@@ -1,8 +1,8 @@
 # 🗝️ .NET Keys
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Test](https://github.com/devantler/dotnet-keys/actions/workflows/test.yaml/badge.svg)](https://github.com/devantler/dotnet-keys/actions/workflows/test.yaml)
-[![codecov](https://codecov.io/gh/devantler/dotnet-keys/graph/badge.svg?token=RhQPb4fE7z)](https://codecov.io/gh/devantler/dotnet-keys)
+[![Test](https://github.com/devantler-tech/dotnet-keys/actions/workflows/test.yaml/badge.svg)](https://github.com/devantler-tech/dotnet-keys/actions/workflows/test.yaml)
+[![codecov](https://codecov.io/gh/devantler-tech/dotnet-keys/graph/badge.svg?token=RhQPb4fE7z)](https://codecov.io/gh/devantler-tech/dotnet-keys)
 
 A simple .NET library with a collection of common assymetric and symmetric key models.
 
@@ -88,4 +88,4 @@ Console.WriteLine(serializedAgeKey);
 ```
 
 > [!NOTE]
-> If you are looking for a library to help generate Age keys you can use the [`Devantler.AgeCLI` library](https://github.com/devantler/dotnet-age-cli), which embeds the `age-keygen` binary to generate Age keys to files or in-memory. It also uses the `AgeKey` class so the generated keys are easy to use in your .NET applications.
+> If you are looking for a library to help generate Age keys you can use the [`Devantler.AgeCLI` library](https://github.com/devantler-tech/dotnet-age-cli), which embeds the `age-keygen` binary to generate Age keys to files or in-memory. It also uses the `AgeKey` class so the generated keys are easy to use in your .NET applications.
