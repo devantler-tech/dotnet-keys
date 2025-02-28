@@ -14,15 +14,17 @@ A simple .NET library with a collection of common assymetric and symmetric key m
 .
 ├── .github
 │   └── workflows
-├── Devantler.Keys.Age
-│   └── Utils
-├── Devantler.Keys.Age.Tests
-│   ├── AgeKeyTests
-│   └── Utils
-│       └── DateTimeFormatterTests
-└── Devantler.Keys.Core
+├── src
+│   ├── Devantler.Keys.Age
+│   │   └── Utils
+│   └── Devantler.Keys.Core
+└── tests
+    └── Devantler.Keys.Age.Tests
+        ├── AgeKeyTests
+        └── Utils
+            └── DateTimeFormatterTests
 
-10 directories
+12 directories
 ```
 <!-- readme-tree end -->
 
