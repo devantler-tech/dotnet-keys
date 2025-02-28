@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Devantler.Keys.Core\Devantler.Keys.Core.csproj" />
+    <ProjectReference Include="..\..\src\Devantler.Keys.Core\Devantler.Keys.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>

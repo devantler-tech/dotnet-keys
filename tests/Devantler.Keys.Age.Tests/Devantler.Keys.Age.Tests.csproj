@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Devantler.Keys.Age\Devantler.Keys.Age.csproj" />
+    <ProjectReference Include="..\..\src\Devantler.Keys.Age\Devantler.Keys.Age.csproj" />
   </ItemGroup>
 
   <ItemGroup>
