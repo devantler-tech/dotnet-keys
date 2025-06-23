@@ -12,10 +12,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Devantler.Keys.Core\Devantler.Keys.Core.csproj" />
+    <ProjectReference Include="..\..\src\DevantlerTech.Keys.Core\DevantlerTech.Keys.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <InternalsVisibleTo Include="Devantler.Keys.Age.Tests" />
+    <InternalsVisibleTo Include="DevantlerTech.Keys.Age.Tests" />
   </ItemGroup>
 </Project>

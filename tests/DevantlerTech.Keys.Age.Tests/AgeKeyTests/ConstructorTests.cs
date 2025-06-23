@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using Devantler.Keys.Age.Utils;
+using DevantlerTech.Keys.Age.Utils;
 
-namespace Devantler.Keys.Age.Tests.AgeKeyTests;
+namespace DevantlerTech.Keys.Age.Tests.AgeKeyTests;
 
 /// <summary>
 /// Tests for the <see cref="AgeKey"/> constructor.

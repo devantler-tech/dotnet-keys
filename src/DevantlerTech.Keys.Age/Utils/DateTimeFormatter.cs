@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace Devantler.Keys.Age.Utils;
+namespace DevantlerTech.Keys.Age.Utils;
 
 /// <summary>
 /// A helper class for formatting DateTime objects.

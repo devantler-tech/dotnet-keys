@@ -1,10 +1,10 @@
 using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
-using Devantler.Keys.Age.Utils;
-using Devantler.Keys.Core;
+using DevantlerTech.Keys.Age.Utils;
+using DevantlerTech.Keys.Core;
 
-namespace Devantler.Keys.Age;
+namespace DevantlerTech.Keys.Age;
 
 /// <summary>
 /// A class to represent an Age key.
