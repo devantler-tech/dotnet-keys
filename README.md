@@ -15,11 +15,11 @@ A simple .NET library with a collection of common assymetric and symmetric key m
 ├── .github
 │   └── workflows
 ├── src
-│   ├── Devantler.Keys.Age
+│   ├── DevantlerTech.Keys.Age
 │   │   └── Utils
-│   └── Devantler.Keys.Core
+│   └── DevantlerTech.Keys.Core
 └── tests
-    └── Devantler.Keys.Age.Tests
+    └── DevantlerTech.Keys.Age.Tests
         ├── AgeKeyTests
         └── Utils
             └── DateTimeFormatterTests
