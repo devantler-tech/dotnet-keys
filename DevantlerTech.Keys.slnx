@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/src/">
+    <Project Path="src/DevantlerTech.Keys.Age/DevantlerTech.Keys.Age.csproj" />
+    <Project Path="src/DevantlerTech.Keys.Core/DevantlerTech.Keys.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevantlerTech.Keys.Age.Tests/DevantlerTech.Keys.Age.Tests.csproj" />
+  </Folder>
+</Solution>

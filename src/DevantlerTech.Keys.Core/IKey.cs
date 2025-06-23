@@ -1,4 +1,4 @@
-namespace Devantler.Keys.Core;
+namespace DevantlerTech.Keys.Core;
 
 /// <summary>
 /// Interface for a key.

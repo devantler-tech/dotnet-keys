@@ -1,6 +1,6 @@
-using Devantler.Keys.Age.Utils;
+using DevantlerTech.Keys.Age.Utils;
 
-namespace Devantler.Keys.Age.Tests.Utils.DateTimeFormatterTests;
+namespace DevantlerTech.Keys.Age.Tests.Utils.DateTimeFormatterTests;
 
 /// <summary>
 /// Tests for the <see cref="DateTimeFormatter.FormatDateTimeWithCustomOffset"/> method.
