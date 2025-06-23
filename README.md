@@ -6,30 +6,6 @@
 
 A simple .NET library with a collection of common assymetric and symmetric key models.
 
-<details>
-  <summary>Show/hide folder structure</summary>
-
-<!-- readme-tree start -->
-```
-.
-├── .github
-│   └── workflows
-├── src
-│   ├── DevantlerTech.Keys.Age
-│   │   └── Utils
-│   └── DevantlerTech.Keys.Core
-└── tests
-    └── DevantlerTech.Keys.Age.Tests
-        ├── AgeKeyTests
-        └── Utils
-            └── DateTimeFormatterTests
-
-12 directories
-```
-<!-- readme-tree end -->
-
-</details>
-
 ## Prerequisites
 
 - [.NET](https://dotnet.microsoft.com/en-us/)
@@ -40,13 +16,13 @@ To get started, you can install the packages from NuGet.
 
 ```bash
 # For the Age key model
-dotnet add package Devantler.Keys.Age
+dotnet add package DevantlerTech.Keys.Age
 ```
 
 If you need to create a new key model, you can install the `Core` package from NuGet. This package includes the base classes and interfaces for creating new key models.
 
 ```bash
-dotnet add package Devantler.Keys.Core
+dotnet add package DevantlerTech.Keys.Core
 ```
 
 ## 📝 Usage
@@ -90,4 +66,4 @@ Console.WriteLine(serializedAgeKey);
 ```
 
 > [!NOTE]
-> If you are looking for a library to help generate Age keys you can use the [`Devantler.AgeCLI` library](https://github.com/devantler-tech/dotnet-age-cli), which embeds the `age-keygen` binary to generate Age keys to files or in-memory. It also uses the `AgeKey` class so the generated keys are easy to use in your .NET applications.
+> If you are looking for a library to help generate Age keys you can use the [`DevantlerTech.AgeCLI` library](https://github.com/devantler-tech/dotnet-age-cli), which embeds the `age-keygen` binary to generate Age keys to files or in-memory. It also uses the `AgeKey` class so the generated keys are easy to use in your .NET applications.
